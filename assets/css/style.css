@@ -1,0 +1,12 @@
+.mi7_wrapper h2{text-align:center;}
+ul.mi7_days_wrapper li{width:14%;float:left;}
+ul.mi7_days_wrapper{width:100%;float:left;}
+.msg_wrapper{display:none;}
+.mi7_col h4{width:100%;margin:0px;padding:0px;float:left;}
+.mi7_col ul{width:100%;float:left;}
+.mi7_col ul li{width:100%;margin:0px;padding:0px;float:left;}
+.menu_items li span{display:none;}
+.ui-dialog .ui-dialog-titlebar-close span.ui-icon-closethick{margin:0px;left:0;top:0;}
+.load_item_field_wrapper{float:left;width:100%;}
+.load_item_field_wrapper label{float:left;width:30%;}
+.load_item_field_wrapper input{float:left;width:70%;}
