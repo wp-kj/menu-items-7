@@ -9,6 +9,6 @@ This plugin can be installed directly from your site.
 * Navigate to Menu Items and start creating your daily serving items in your restaurant.
 
 ### Usage:
-* Use ```php [MENU-ITEMS-7] ``` short code in editor.
+* Use ```[MENU-ITEMS-7]``` short code in editor.
 or
-* Use ```php <?php echo do_shortcode( '[MENU-ITEMS-7]' ); ?> ``` short code in PHP.
+* Use ```<?php echo do_shortcode( '[MENU-ITEMS-7]' ); ?>``` short code in PHP.
